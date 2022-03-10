@@ -1,3 +1,3 @@
-# Feature 2 
+# Bugs 
 
-symbol
+GPU works slowly in this version
