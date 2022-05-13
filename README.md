@@ -1,3 +1,2 @@
-# Bugs 
+# It was one of my first repos 
 
-GPU works slowly in this version
